@@ -15,11 +15,7 @@ Passionate about **cloud infrastructure, automation, and system reliability**, I
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation of **Microsoft Sentinel** in **Azure**     | <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>|
 | Active Directory and Network Security in **Google Cloud Platform** | <a href="https://coursera.org/share/235e0cbf24c255fa5cd2ec93d958b69d">Deploying a Fault-Tolerant Microsoft Active Directory Environment </a>|
-<!-- | Security Automation with Shuffle SOAR         | SOC Automation Lab| -->
-<!-- | Incident Response Planning and Execution      | SOC Automation Lab| -->
-<!-- | Case Management with TheHive                  | SOC Automation Lab| -->
-<!-- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| -->
-<!-- | Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
+
 
 ## Tools
 
