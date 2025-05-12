@@ -10,6 +10,7 @@ Passionate about **cloud infrastructure, automation, and system reliability**, I
 
 ## Skills
 
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation of **Microsoft Sentinel** in **Azure**     | <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>|
@@ -42,7 +43,7 @@ Passionate about **cloud infrastructure, automation, and system reliability**, I
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 </div>
 
-### Automation & Scripting for Operation
+### Scripting & Automation for System Administration
 <div>
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />  
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />  
@@ -53,7 +54,8 @@ Passionate about **cloud infrastructure, automation, and system reliability**, I
 <div>
 <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />  
 <img src="https://img.shields.io/badge/-AWS%20IAM-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />  
-<img src="https://img.shields.io/badge/-Azure%20AD%20(Microsoft%20Entra%20ID)-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Azure%20AD%20(Microsoft%20Entra%20ID)-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-LDAP-2C3E50?style=for-the-badge&logo=ldap&logoColor=white" />
 </div>
 
 ### Operating System's & Virtualization
