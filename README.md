@@ -1,5 +1,5 @@
 # Hello, I'm Jesper 
-<!--- <a href="https://www.linkedin.com/in/pasteurlhere/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<a href="https://www.linkedin.com/in/99kk9977kk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am currently studying to become a **Technical Operations Specialist**, with a strong interest in **network security** and a commitment to solving complex technical challenges. 
 
@@ -15,6 +15,13 @@ Passionate about **cloud infrastructure, automation, and system reliability**, I
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation of **Microsoft Sentinel** in **Azure**     | <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>|
 | Active Directory and Network Security in **Google Cloud Platform** | <a href="https://coursera.org/share/235e0cbf24c255fa5cd2ec93d958b69d">Deploying a Fault-Tolerant Microsoft Active Directory Environment </a>|
+| Terraform Fundamentals and APIs in **Google Cloud Platform** | <a href="https://www.coursera.org/account/accomplishments/verify/5OJPGKPHFXV0">Terraform Fundamentals Lab in Google Cloud </a>|
+| Network Security and Security Software in **Google Cloud Platform** | <a href="https://www.coursera.org/account/accomplishments/verify/11B6V7XDCP3Q">Networking 101 Lab in Google Cloud </a>|
+
+
+
+
+
 
 
 ## Tools
@@ -80,7 +87,7 @@ Passionate about **cloud infrastructure, automation, and system reliability**, I
 
 
 ## Projects
-<!-- - Detection Lab -->
-<!-- - SOC Automation Project -->
 - <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>
 - <a href="https://coursera.org/share/235e0cbf24c255fa5cd2ec93d958b69d">Deploying a Fault-Tolerant Microsoft Active Directory Environment </a>
+- <a href="https://www.coursera.org/account/accomplishments/verify/5OJPGKPHFXV0">Terraform Fundamentals Lab in Google Cloud </a>
+- <a href="https://www.coursera.org/account/accomplishments/verify/11B6V7XDCP3Q">Networking 101 Lab in Google Cloud </a>
