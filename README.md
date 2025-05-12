@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm CHANGEME (IN PROGRESS)
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation of Microsoft Sentinel       | <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -68,3 +68,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>
