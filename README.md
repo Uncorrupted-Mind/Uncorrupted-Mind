@@ -30,7 +30,11 @@ Passionate about **cloud infrastructure, automation, and system reliability**, I
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-5E5E5E?style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Social--Engineer%20Toolkit-FF4500?style=for-the-badge&logo=SET&logoColor=white" />
+</div>
+
+### Security & Penetration Testing
+<div>
+   <img src="https://img.shields.io/badge/-Social--Engineer%20Toolkit-FF4500?style=for-the-badge&logo=SET&logoColor=white" />
 </div>
 
 ### SIEM
