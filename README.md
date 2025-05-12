@@ -52,6 +52,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+
+
+
+### Automation & Scripting for Operation
+<div>
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />  
+</div>
+
+### Identity & Access Management (IAM)   
+<div>
+<img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />  
+<img src="https://img.shields.io/badge/-AWS%20IAM-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Azure%20AD%20(Microsoft%20Entra%20ID)-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />  
+</div>
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
