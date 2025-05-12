@@ -1,23 +1,24 @@
-# Hello, I'm CHANGEME (IN PROGRESS)
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Jesper 
+<!--- <a href="https://www.linkedin.com/in/pasteurlhere/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am currently studying to become a **Technical Operations Specialist**, with a strong interest in **network security** and a commitment to solving complex technical challenges. 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Passionate about **cloud infrastructure, automation, and system reliability**, I focus on building scalable, efficient solutions that enhance operational performance.
+
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation of **Microsoft Sentinel**      | <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation of **Microsoft Sentinel** in **Azure**     | <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>|
+| Active Directory and Network Security in **Google Cloud Platform** | <a href="https://coursera.org/share/235e0cbf24c255fa5cd2ec93d958b69d">Deploying a Fault-Tolerant Microsoft Active Directory Environment </a>|
+<!-- | Security Automation with Shuffle SOAR         | SOC Automation Lab| -->
+<!-- | Incident Response Planning and Execution      | SOC Automation Lab| -->
+<!-- | Case Management with TheHive                  | SOC Automation Lab| -->
+<!-- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| -->
+<!-- | Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
 
 ## Tools
 
@@ -81,6 +82,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+<!-- - Detection Lab -->
+<!-- - SOC Automation Project -->
 - <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>
+- <a href="https://coursera.org/share/235e0cbf24c255fa5cd2ec93d958b69d">Deploying a Fault-Tolerant Microsoft Active Directory Environment </a>
