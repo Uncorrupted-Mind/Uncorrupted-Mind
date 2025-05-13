@@ -14,9 +14,9 @@ Passionate about **cloud infrastructure, automation, and system reliability**, I
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation of **Microsoft Sentinel** in **Azure**     | <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>|
-| Active Directory and Network Security in **Google Cloud Platform** | <a href="https://coursera.org/share/235e0cbf24c255fa5cd2ec93d958b69d">Deploying a Fault-Tolerant Microsoft Active Directory Environment </a>|
-| Terraform Fundamentals and APIs in **Google Cloud Platform** | <a href="https://www.coursera.org/account/accomplishments/verify/5OJPGKPHFXV0">Terraform Fundamentals Lab in Google Cloud </a>|
-| Network Security and Security Software in **Google Cloud Platform** | <a href="https://www.coursera.org/account/accomplishments/verify/11B6V7XDCP3Q">Networking 101 Lab in Google Cloud </a>|
+| Active Directory and Network Security in **Google Cloud Platform** | <a href="https://www.cloudskillsboost.google/focuses/1817?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=45617274">Deploying a Fault-Tolerant Microsoft Active Directory Environment </a>|
+| Terraform Fundamentals and APIs in **Google Cloud Platform** | <a href="https://www.cloudskillsboost.google/focuses/1208?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=45617215">Terraform Fundamentals Lab in Google Cloud </a>|
+| Network Security and Security Software in **Google Cloud Platform** | <a href="https://www.cloudskillsboost.google/focuses/1743?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=45617161">Networking 101 Lab in Google Cloud </a>|
 
 
 
@@ -92,6 +92,6 @@ Passionate about **cloud infrastructure, automation, and system reliability**, I
 
 ## Projects
 - <a href="https://uncorrupted-mind.github.io/MINISOC.github.io/">Mini SOC Environment - Microsoft Sentinel Implementation</a>
-- <a href="https://coursera.org/share/235e0cbf24c255fa5cd2ec93d958b69d">Deploying a Fault-Tolerant Microsoft Active Directory Environment </a>
-- <a href="https://www.coursera.org/account/accomplishments/verify/5OJPGKPHFXV0">Terraform Fundamentals Lab in Google Cloud </a>
-- <a href="https://www.coursera.org/account/accomplishments/verify/11B6V7XDCP3Q">Networking 101 Lab in Google Cloud </a>
+- <a href="https://www.cloudskillsboost.google/focuses/1817?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=45617274">Deploying a Fault-Tolerant Microsoft Active Directory Environment </a>
+- <a href="https://www.cloudskillsboost.google/focuses/1208?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=45617215">Terraform Fundamentals Lab in Google Cloud </a>
+- <a href="https://www.cloudskillsboost.google/focuses/1743?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=45617161">Networking 101 Lab in Google Cloud </a>
